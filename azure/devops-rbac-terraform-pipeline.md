@@ -1,22 +1,16 @@
 # DevOps RBAC & Terraform Pipeline - Enterprise Azure Deployment
 > ## Client name and details obfuscated for confidentiality. Architecture and implementation reflect actual enterprise experience.
 
-Colons can be used to align columns.
+## Overview: Enterprise Deployment Scenario
 
-|         ### fdfdfdfdffd ###  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Category     | Details                                                                 |
+|--------------|-------------------------------------------------------------------------|
+| Industry     | Retail                                                                  |
+| App Name     | **ContosoSalesApp** – A multi-tier retail management application with frontend, backend, and database layers |
+| Hosting      | Azure                                                                   |
+| Automation   | GitHub Actions + Terraform                                              |
+| Security     | Microsoft Entra ID (Azure AD), RBAC, Key Vault, PIM, Conditional Access |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 
 
