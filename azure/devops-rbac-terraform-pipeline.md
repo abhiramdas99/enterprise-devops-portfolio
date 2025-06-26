@@ -2,7 +2,7 @@
 > ## Client name and details obfuscated for confidentiality. Architecture and implementation reflect actual enterprise experience.
 
 ---
-🏢 Overview: Enterprise Deployment Scenario:
-    title: 'Lab 01: Manage Microsoft Entra ID Identities'
+🏢 Overview - Enterprise Deployment Scenario:
+    Industry: 'Lab 01: Manage Microsoft Entra ID Identities'
     module: 'Administer Identity'
 ---
