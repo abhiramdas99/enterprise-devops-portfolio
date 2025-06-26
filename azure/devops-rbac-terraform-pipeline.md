@@ -2,6 +2,7 @@
 > ## Client name and details obfuscated for confidentiality. Architecture and implementation reflect actual enterprise experience.
 
 |   **  Enterprise Deployment Scenario **          |
----------------------------------------------------
-|Industry  | Manage Microsoft Entra ID Identities |
---------------------------------------------------
+|----------|:--------------------------------------|
+|Industry  | Manage Microsoft Entra ID Identities  |
+
+
