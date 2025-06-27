@@ -1,5 +1,5 @@
 # DevOps RBAC & Terraform Pipeline - Enterprise Azure Deployment
-> ## Client name and details obfuscated for confidentiality. Architecture and implementation reflect actual enterprise experience.
+> ### Client name and details obfuscated for confidentiality. Architecture and implementation reflect actual enterprise experience.
 
 ## Overview: Enterprise Deployment Scenario
 
@@ -23,6 +23,7 @@
 | Eva Wilson   | eva@contoso.com   | Cloud Architect    | CloudOps       |
 | Raj Patel    | raj@contoso.com   | Compliance Officer | GovernanceTeam |
 
+
 ## 🔧 Infrastructure & Services
 
 | Component   | Technology     | Azure Resource              |
@@ -33,6 +34,8 @@
 | Secrets     | API Keys, DB   | Azure Key Vault             |
 | CI/CD       | GitHub + TF    | GitHub Actions + SP         |
 | Monitoring  | Security Logs  | Azure Monitor + Defender    |
+
+
 
 
 
